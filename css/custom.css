@@ -1,0 +1,43 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+body {
+	background: #3E4649;
+	color: #f7f7f7;
+	font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2 {
+	font-weight: bold;
+}
+p {
+	font-size: 16px;
+	color: #cdcdcd;
+}
+.jumbotron {
+  position: relative;
+	background: white;
+	color: grey;
+
+}
+.jumbotron p {
+  position: right;
+	color: grey;
+	font-size: 16px;
+  text-align: right;
+}
+.navbar-inverse {
+	background: #2E2F31;
+	border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #27A967;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
